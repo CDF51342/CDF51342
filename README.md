@@ -54,10 +54,10 @@ Explora mis proyectos. Soy un ingeniero informático especializado en la interse
   * *Autores*: E. Cibrián, J. Olivert-Iserte, **C. Díez-Fenoy**, R. Mendieta, J. Llorens and J. M. Álvarez-Rodríguez.
   * *DOI*: [ACCESS.2025.3587786](https://doi.org/10.1109/access.2025.3587786)
 
-<!-- * **"*DACKERS at MiSonGyny 2025: A Transformer Ensemble Approach for Misogyny Detection in Spanish*"**
+* **"*DACKERS at MiSonGyny 2025: A Transformer Ensemble Approach for Misogyny Detection in Spanish*"**
   * Publicado en: [![IberLEF 2025](https://img.shields.io/badge/IberLEF%202025-F7931E?style=flat&logo=researchgate&logoColor=white)](https://ceur-ws.org/Vol-xxxx/xxxx.pdf)
   * *Autores*: **Díez-Fenoy, C.**, López-González, A. & Valle-Díaz, J. D.
-  * *DOI*: -->
+  * *URL*: [https://ceur-ws.org/Vol-4098/MiSonGyny2025_paper1.pdf](https://ceur-ws.org/Vol-4098/MiSonGyny2025_paper1.pdf)
 
 ---
 
