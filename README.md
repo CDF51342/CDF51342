@@ -10,7 +10,7 @@ Explora mis proyectos. Soy un ingeniero informático especializado en la interse
 
 | Categoría | Tecnologías |
 |---|---|
-| **Lenguajes** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET%208.0-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white) ![HTML5/CSS](https://img.shields.io/badge/html5/css-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| **Lenguajes** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Cython](https://img.shields.io/badge/Cython-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET%208.0-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white) ![HTML5/CSS](https://img.shields.io/badge/html5/css-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
 | **Frameworks y entornos** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white) |
 | **Programación paralela y distribuida** | ![MPI](https://img.shields.io/badge/MPI-008080?style=for-the-badge) ![OpenMP](https://img.shields.io/badge/OpenMP-901C1D?style=for-the-badge) |
 | **Herramientas de desarrollo** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![body-parser](https://img.shields.io/badge/body--parser-000000?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Web APIs móviles](https://img.shields.io/badge/Web%20APIs%20m%C3%B3viles-FF6F00?style=for-the-badge&logo=android&logoColor=white) |
@@ -55,7 +55,7 @@ Explora mis proyectos. Soy un ingeniero informático especializado en la interse
   * *DOI*: [ACCESS.2025.3587786](https://doi.org/10.1109/access.2025.3587786)
 
 * **"*DACKERS at MiSonGyny 2025: A Transformer Ensemble Approach for Misogyny Detection in Spanish*"**
-  * Publicado en: [![IberLEF 2025](https://img.shields.io/badge/IberLEF%202025-F7931E?style=flat&logo=researchgate&logoColor=white)](https://ceur-ws.org/Vol-xxxx/xxxx.pdf)
+  * Publicado en: [![IberLEF 2025](https://img.shields.io/badge/IberLEF%202025-F7931E?style=flat&logo=researchgate&logoColor=white)](https://ceur-ws.org/Vol-4098/MiSonGyny2025_paper1.pdf)
   * *Autores*: **Díez-Fenoy, C.**, López-González, A. & Valle-Díaz, J. D.
   * *URL*: [https://ceur-ws.org/Vol-4098/MiSonGyny2025_paper1.pdf](https://ceur-ws.org/Vol-4098/MiSonGyny2025_paper1.pdf)
 
@@ -64,20 +64,24 @@ Explora mis proyectos. Soy un ingeniero informático especializado en la interse
 ## 📈 Mis estadísticas de GitHub
 
 <p align="center">
-  <img alt="Carlos Díez-Fenoy's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=CDF51342&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img alt="Carlos Díez-Fenoy's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=CDF51342&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  <img alt="Carlos Díez-Fenoy's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=CDF51342&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="59.5%"/>
+  <img alt="Carlos Díez-Fenoy's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=CDF51342&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" width="39.5%"/>
   <br/>
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=CDF51342&theme=radical" alt="GitHub Trophies" />
-  <br><br> -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Carlos's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=CDF51342&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <br/>
+  <img alt="Carlos Díez-Fenoy's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CDF51342&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakNum=D3D3D3&sideNums=F8D866" width="100%" />
+  <br/>
+
 </p>
   <br/>
 
 ---
 
-## 🎼 Un poco de mi gusto musical 🎶
+## 🎼 Un poco de mi gusto musical y cinéfilo 🎞️ 🎶
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31he5rhbtts5hcwtiggxt47qmv6e&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31he5rhbtts5hcwtiggxt47qmv6e&redirect=true)
+
+[![Letterboxd](https://letterboxd-profile-github.netlify.app/api/svg/conansito08)](https://letterboxd.com/conansito08/)
 
 ---
 
@@ -86,3 +90,4 @@ Explora mis proyectos. Soy un ingeniero informático especializado en la interse
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CDF51342)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-diez-fenoy)
 [![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-5225-3575)
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-00D735?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/conansito08/)
