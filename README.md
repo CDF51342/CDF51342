@@ -147,10 +147,10 @@ Soy un ingeniero informático especializado en **Procesamiento de Lenguaje Natur
 <summary>Ver estadísticas</summary>
 <br>
 <p align="center">
-  <img alt="Carlos Díez-Fenoy's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=CDF51342&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="59.5%"/>
-  <img alt="Carlos Díez-Fenoy's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=CDF51342&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" width="39.5%"/>
+  <img alt="Carlos Díez-Fenoy's Github Stats" src="https://github-stats-jet-ten.vercel.app/api/?username=CDF51342&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="59.5%"/>
+  <img alt="Carlos Díez-Fenoy's Top Languages" src="https://github-stats-jet-ten.vercel.app/api/top-langs/?username=CDF51342&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" width="39.5%"/>
   <br/>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Carlos's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=CDF51342&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Carlos's Activity Graph" src="https://github-readme-activity-graph-iota-beige.vercel.app/graph/?username=CDF51342&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
   <img alt="Carlos Díez-Fenoy's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CDF51342&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakNum=D3D3D3&sideNums=F8D866" width="100%" />
 </p>
